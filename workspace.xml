@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4be20ad-7a12-47b9-8ce7-cb1222dc4da9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DogFarm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DogFarm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Farm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FarmEmulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aviary/Aviary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dogs/Age.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dogs/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dogs/DogJobs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dogs/TrainingInstructions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/food/FoodPortion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/food/Foods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generation/DogsGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generation/WorkersGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staff/AviaryWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staff/Cleaner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staff/DogWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staff/Feeder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staff/Trainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staff/Vet.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\XIAOMI\IdeaProjects\DogFarm\DogFarm" />
+        <option value="C:\Users\XIAOMI\IdeaProjects\DogFarm\DogFarm\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
